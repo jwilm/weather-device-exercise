@@ -1,5 +1,5 @@
-Socket Bytes Challenge
-======================
+Weather Device Exercise
+=======================
 
 Aimed at beginner programmers needing to learn about byte manipulation and
 sockets programming, this service emulates a weather device with a simple
